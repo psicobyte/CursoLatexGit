@@ -99,6 +99,9 @@ Imparte charlas, talleres y cursos para diversas instituciones, como la Universi
 
 ### Renato Luis Ramírez Rivero
 
-Licenciado en Ciencias Físicas por la Universidad de Granada, Cualificación profesional en Programación de Aplicaciones Informáticas. Cursos de Doctorado en Historia de la Ciencia. Profesor acreditado por la Junta de Andalucía para cursos de Fpe. Ha trabajado principalmente en el campo de la docencia, impartiendo informática a cualquier nivel (especialmente a alto nivel). Amante de la cultura libre (Hardware y Software Libre).
+Licenciado en Ciencias Físicas por la Universidad de Granada, Cualificación profesional en Programación de Aplicaciones Informáticas. Cursos de Doctorado en Historia de la Ciencia. Profesor acreditado por la Junta de Andalucía para cursos de Fpe.  
+Ha trabajado principalmente en el campo de la docencia, impartiendo informática a cualquier nivel (especialmente a alto nivel).  
+  
+Amante de la cultura libre (Hardware y Software Libre).
 
 
